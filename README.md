@@ -1,6 +1,6 @@
 # @RaveReflections Twitter bot
 
-The comments section of dance tunes is probably the nicest place on YouTube; even if that is damning with faint praise. Comments are invariably kind, funny, nostalgic and frequently eutopian in their nature.
+The comments sections of dance tunes are probably the nicest place on YouTube; even if that is damning with faint praise. Comments are invariably kind, funny, nostalgic and even eutopian.
 
 It's a nice part of the internet that I wanted to celebrate and promote to a wider audience and that's how I found myself building this bot.
 
