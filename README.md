@@ -8,7 +8,7 @@ It's a nice part of the internet that I wanted to celebrate and promote to a wid
 
 ## License
 
-Released under The Unlicense.
+Released under [The Unlicense](https://github.com/thubbs/rave-reflections-bot/blob/main/LICENSE).
 
 This is free and unencumbered software released into the public domain.
 
