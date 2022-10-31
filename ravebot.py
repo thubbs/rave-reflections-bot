@@ -12,7 +12,7 @@ def make_post(chosen_id, data):
 		thread = False
 	else:
 		thread = True
-		post_content = textwrap.wrap(chosen_comment['comment'], 248, break_long_words=False)
+		post_content = textwrap.wrap(chosen_comment['comment'], 247, break_long_words=False)
 		for i, line in enumerate(post_content):
 			# If first tweet
 			if i == 0:
